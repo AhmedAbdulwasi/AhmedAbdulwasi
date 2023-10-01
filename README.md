@@ -15,7 +15,7 @@ I'm a first-year computer science student passionate about software development/
 [![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)
 
 #### Currently Doing...
-- ➗Focusing on Discrete Math and Chemistry 
+- Focusing on Discrete Math ➗ and Chemistry 🧪
 
 #### Contact Information
 - Email: <a href="mailto:ahmed.bein@torontomu.ca">ahmed.bein@torontomu.ca</a> 
