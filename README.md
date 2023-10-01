@@ -14,14 +14,15 @@ I'm a first-year computer science student passionate about software development/
 [![CSS Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](#)
 [![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)
 
+
+#### Contact Information 🔰
+- Email: <a href="mailto:ahmed.bein@torontomu.ca">ahmed.bein@torontomu.ca</a> 
+- Linkedin: [linkedin.com/in/ahmedaab/](https://www.linkedin.com/in/ahmedaab/)
+
 <!--
 #### Currently Doing...
 - Focusing on Discrete Math ➗ and Chemistry 🧪
 --!>
-#### Contact Information 🔰
-- Email: <a href="mailto:ahmed.bein@torontomu.ca">ahmed.bein@torontomu.ca</a> 
-- Linkedin: [linkedin.com/in/ahmedaab/](https://www.linkedin.com/in/ahmedaab/)
-- 
 
 <!--
 Secret Message: Do you have any movies/tv shows you would like to recommend? Send an email!
