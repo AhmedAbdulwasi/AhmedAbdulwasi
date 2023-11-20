@@ -19,10 +19,10 @@ I'm a first-year computer science student passionate about software development/
 - Email: <a href="mailto:ahmed.bein@torontomu.ca">ahmed.bein@torontomu.ca</a> 
 - Linkedin: [linkedin.com/in/ahmedaab/](https://www.linkedin.com/in/ahmedaab/)
 
-
+<!--
 #### Currently Doing...
 - Final Exams...
-
+--!>
 
 <!--
 Secret Message: Do you have any movies/tv shows you would like to recommend? Send an email!
