@@ -7,19 +7,19 @@ I'm a second-year computer science student passionate about software development
 
 #### Languages and Technologies I Use (And Try to Learn) 💻
 [![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
-[![Javascript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#) 
-[![React Badge](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) 
+[![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
 [![HTML Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](#)
-[![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)
+
 
 
 #### Contact Information 🔰
 - Email: <a href="mailto:ahmed.bein@torontomu.ca">ahmed.bein@torontomu.ca</a> 
 - Linkedin: [linkedin.com/in/ahmedaab/](https://www.linkedin.com/in/ahmedaab/)
 
-UPDATE: I know I haven't been active. This winter semester was really hard but finished with my name on the Dean's List. WE'RE SO BACK.
+UPDATE: I know I haven't been active. This winter semester was really hard but I finished with my name on the Dean's List. WE'RE SO BACK.
 <!--
 #### Currently Doing...
 - Final Exams...
