@@ -19,7 +19,7 @@ I'm a second-year computer science student passionate about software development
 - Email: <a href="mailto:ahmed.bein@torontomu.ca">ahmed.bein@torontomu.ca</a> 
 - Linkedin: [linkedin.com/in/ahmedaab/](https://www.linkedin.com/in/ahmedaab/)
 
-UPDATE: I know I haven't been active. This winter semester was really hard but I finished with my name on the Dean's List. WE'RE SO BACK.
+UPDATE: <p> On a Trip </p>
 <!--
 #### Currently Doing...
 - Final Exams...
