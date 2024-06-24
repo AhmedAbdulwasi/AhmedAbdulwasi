@@ -1,7 +1,7 @@
 ## Hi I'm Ahmed 👍
 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> -->
 
-I'm a second-year computer science student passionate about software development/engineering. I found myself enjoying and learning the most when solving problems through technical solutions which made me more passionate about programming, data structure, algorithms and much more. My hobbies include working out, movies/TV shows, soccer and video games.
+I'm a second-year computer science student passionate about software development/engineering. I found myself enjoying and learning the most when solving problems through technical solutions which made me more passionate about programming, data structure, algorithms and much more. My hobbies include working out, movies/TV shows, playing football/soccer and video games.
 
 
 
