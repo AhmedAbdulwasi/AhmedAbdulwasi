@@ -5,15 +5,13 @@ I'm a second-year computer science student passionate about software development
 
 
 
-#### Languages and Technologies I Use (And Try to Learn) 💻
-[![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#) 
-[![MySQL Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
-[![Javascript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
-[![HTML Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](#)
-
-
+#### Languages I Use (And Try to Learn) 💻
+![Static Badge](https://img.shields.io/badge/Python-4474aa?style=for-the-badge&logo=python&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Java-f5b942?style=for-the-badge&logo=data.ai&logoColor=f5b942&labelColor=black)
+![Static Badge](https://img.shields.io/badge/SQL-f58236?style=for-the-badge&logo=sqlite&logoColor=f58236&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Javascript-f5ef36?style=for-the-badge&logo=javascript&logoColor=f5ef36&labelColor=black)
+![Static Badge](https://img.shields.io/badge/HTML5-f56951?style=for-the-badge&logo=html5&logoColor=f56951&labelColor=black)
+![Static Badge](https://img.shields.io/badge/CSS-71daf5?style=for-the-badge&logo=tailwind%20css&logoColor=71daf5&labelColor=black)
 
 #### Contact Information 🔰
 - Email: <a href="mailto:ahmed.bein@torontomu.ca">ahmed.bein@torontomu.ca</a> 
@@ -21,7 +19,7 @@ I'm a second-year computer science student passionate about software development
 
 <!--
 #### Currently Doing...
-- Final Exams...
+- working on something...
 --!>
 
 <!--
