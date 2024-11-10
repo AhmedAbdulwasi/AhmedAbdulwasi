@@ -24,4 +24,5 @@ I'm a second-year computer science student passionate about software development
 
 <!--
 Secret Message: Do you have any movies/tv shows you would like to recommend? Send an email!
+Note: October-November gotta be one of the worst months ever. I had so MANY midterms and assignments and quizzes and tests. 
 --!>
