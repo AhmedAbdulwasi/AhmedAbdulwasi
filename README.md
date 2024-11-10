@@ -7,7 +7,7 @@ I'm a second-year computer science student passionate about software development
 
 #### Languages I Use (And Try to Learn) 💻
 ![Static Badge](https://img.shields.io/badge/Python-4474aa?style=for-the-badge&logo=python&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Java-f5b942?style=for-the-badge&logo=data.ai&logoColor=f5b942&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Java-f5b942?style=for-the-badge&logo=coffeescript&logoColor=f5b942&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/SQL-f58236?style=for-the-badge&logo=sqlite&logoColor=f58236&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Javascript-f5ef36?style=for-the-badge&logo=javascript&logoColor=f5ef36&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/HTML5-f56951?style=for-the-badge&logo=html5&logoColor=f56951&labelColor=black)
