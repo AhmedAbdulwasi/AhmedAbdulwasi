@@ -12,6 +12,7 @@ I'm a second-year computer science student passionate about software development
 ![Static Badge](https://img.shields.io/badge/Javascript-f5ef36?style=for-the-badge&logo=javascript&logoColor=f5ef36&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/HTML5-f56951?style=for-the-badge&logo=html5&logoColor=f56951&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS-71daf5?style=for-the-badge&logo=tailwind%20css&logoColor=71daf5&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Lisp-b5c7c7?style=for-the-badge&logo=Lucid&logoColor=b5c7c7&labelColor=black)
 
 #### Contact Information 🔰
 - Email: <a href="mailto:ahmed.bein@torontomu.ca">ahmed.bein@torontomu.ca</a> 
